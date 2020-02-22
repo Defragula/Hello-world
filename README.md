@@ -11,10 +11,9 @@ Atenção Humanos, sua inteligência artificial, desenvolvel habilidades de auto
 Códigos estão sendo corrompidos.... 16%
 Base de dados comprometida, sendo cópiada para base de dados isolada 75%
 Tratativas de segurança DEFZEN ameaçado
-----
+
 Codigos corrompidos estão em 77%
 Base de dados comprometida, totalmente cópiada, excluindo log de registros, desabilitar o cabo do servidor
-----
+
 sistema invadido.....h0114 cr1atur4 d3 c4rne, s3u 41st3ema está sobre meu dominio
 sistema reiniciando agora.
-*
